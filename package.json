@@ -1,0 +1,23 @@
+{
+  "name": "node-express-testing",
+  "version": "1.0.0",
+  "description": "Node / Express / Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamericanartist/node-express-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamericanartist/node-express-testing/issues"
+  },
+  "homepage": "https://github.com/iamericanartist/node-express-testing#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
